@@ -1,0 +1,6 @@
+#table{
+    border: 1px solid blanchedalmond;
+}
+thead {   background-color: darkgreen; font-weight: bolder; }
+input { font-weight: bolder; font-size:large; background-color: lawngreen; border-top-left-radius: 0.2cm; border-bottom-right-radius: 0.2cm; border-color: red; }
+tr {font-size: large; font-weight: bolder;}
